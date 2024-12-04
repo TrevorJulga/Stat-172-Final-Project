@@ -25,7 +25,7 @@ We trained a predictive model using a subset of the CPS data, focusing on food i
 The model was tested using another subset of CPS data to ensure accuracy.
 
 #### Predictions with ACS Data:
-The tested model was applied to the ACS data to predict food insecurity levels at the county level.
+The tested model was applied to the ACS data to predict food insecurity at the county level.
 
 #### Variable Selection:
 Our selected predictors for food insecurity are:
