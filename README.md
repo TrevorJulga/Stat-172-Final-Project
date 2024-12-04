@@ -37,7 +37,7 @@ Our selected predictors for food insecurity are:
 These variables were chosen because [brief explanation of why these variables are relevant].
 
 ## Using Our Code
-#### To replicate our analysis or explore the data:
+#### To replicate our analysis or to explore the data:
 1. Download the R.Markdown file from this repository.
 2. Open the file in R-Studio.
 3. Run the script to see our methods and results.
