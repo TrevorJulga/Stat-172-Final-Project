@@ -1,7 +1,9 @@
 # Stat-172-Final-Project
 ## Project Overview
 This project, conducted as part of the Stat-172 course at Drake University, uses R-Studio to analyze food insecurity in Iowa. Collaborating with Wesley Life, a non-profit organization dedicated to delivering food to those in need, we aimed to identify counties with the highest levels of food insecurity to assist their planned expansion beyond Polk County.
+
 The analysis leverages public PUMA (Public Use Microdata Area) data to provide actionable insights and help Wesley Life prioritize counties for their expansion efforts.
+
 ## Data Sources
 We worked with two primary datasets:
 ### CPS (Current Population Survey):
