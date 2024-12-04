@@ -1,2 +1,2 @@
 # Stat-172-Final-Project
-A Drake University R-studio project to find which Iowa counties are the most food insecure based on PUMA data to help Wesley Life find which county to expand their food services to.
+As Drake students, we were tasked to use R-Studio for a final class project. We worked with Wesley Life which is a non-profit organization that delivers food to those in need. Wesley Life works to find households and people that are food insecure to complete their mission statement of delivering food to those in need. During our time in this class, Wesley Life was looking to expand beyond Polk county. Although this way their goal, they needed data to show which counties they should expand to that were the most food insecure so they could make the biggest impact.
