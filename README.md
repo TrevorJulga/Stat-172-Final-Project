@@ -53,4 +53,4 @@ Our recommendations for Wesley Life's expansion are:
 These conclusions are based on the predictions from our model and highlight the counties where Wesley Life could make the biggest impact.
 
 ## Acknowledements
-We thank Wesley Life for their collaboration and the course instructor Lendie Follet for her guidance.
+We thank Wesley Life for their collaboration and the course instructor Lendie Follett for her guidance.
