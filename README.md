@@ -1,2 +1,8 @@
 # Stat-172-Final-Project
 As Drake students, we were tasked to use R-Studio for a final class project. We worked with Wesley Life which is a non-profit organization that delivers food to those in need. Wesley Life works to find households and people that are food insecure to complete their mission statement of delivering food to those in need. During our time in this class, Wesley Life was looking to expand beyond Polk county. Although this way their goal, they needed data to show which counties they should expand to that were the most food insecure so they could make the biggest impact.
+We were given and used public PUMA data with various factors to determine which counties they should consider expanding to first.
+Our data was broken into two datasets - CPS & ACS. The CPS data is collected at the individual level with additional household information which can be used to predict food insecurity at the household level. This CPS data is limmitted which means that it is not enough for Wesley Life to use for their analysis and decisions. The ACS dataset is a cencus which does not collect food insecutiry measures, but it does collect other types of data all across Iowa which inclues PUMA data.
+Our R script trains a model based on a subset of the CPS data, we then tested this model with another subset of CPS data to make sure it was accurate. We then used this model to make predictions based on the ACS data.
+The variables we selected as our predictors for food insecurity are ______ and _______. This is because these variables ______________.
+To use our code, download the R.Markdown file and run it in R-Studio. The conclusions are commented out and shown within the file.
+Our conclusions about where Wesley Life should expand are ______________.
