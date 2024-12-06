@@ -20,9 +20,17 @@ Does not directly measure food insecurity but contains other relevant variables 
 
 ## Method
 #### Model Training and Testing:
-We trained a predictive model using a subset of the CPS data, focusing on food insecurity measures.
+We trained a predictive model using 70% of the CPS data, focusing on food insecurity measures, using the other 30% as a testing model to ensure accuracy.
 
-The model was tested using another subset of CPS data to ensure accuracy.
+We used both a Lasso (alpha = 1) and Ridge (alpha = 0) regression for these models, as well as cross-validation to select the best penalty parameter (lambda) for each model based on performance metrics.
+
+We generated ROC curves to assess the predictive accuracy of the models on the testing dataset, including sensitivity and specificity at different thresholds. Comparing AUC (Area Under the Curve) values for both the Lasso and Ridge regression models.
+
+#### Model Application
+We applied the trained models to our ACS data, which does not include direct food insecurity measures, to predict food insecurity probabilities at the PUMA level.
+
+#### Model Views
+We utilized PUMA shapefiles for Iowa to create choropleth maps that visualize food insecurity probabilities. Mapping overall probabilities and focusing on the elderly population, grouping by PUMA and calculating weighted means.
 
 #### Predictions with ACS Data:
 The tested model was applied to the ACS data to predict food insecurity at the county level.
