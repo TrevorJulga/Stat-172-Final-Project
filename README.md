@@ -36,13 +36,9 @@ We utilized PUMA shapefiles for Iowa to create choropleth maps that visualize fo
 The tested model was applied to the ACS data to predict food insecurity at the county level.
 
 #### Variable Selection:
-Our selected predictors for food insecurity are:
+Our selected predictor for food insecurity are:
 
-[Variable 1]
-
-[Variable 2]
-
-These variables were chosen because [brief explanation of why these variables are relevant].
+FSWROUTY - Worry that food would run out before being able to afform more (during the past year).
 
 ## Using Our Code
 #### To replicate our analysis or to explore the data:
