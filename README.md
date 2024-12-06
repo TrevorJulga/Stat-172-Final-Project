@@ -22,7 +22,7 @@ Does not directly measure food insecurity but contains other relevant variables 
 #### Model Training and Testing:
 We trained a predictive model using 70% of the CPS data, focusing on food insecurity measures, using the other 30% as a testing model to ensure accuracy.
 
-We used both a Lasso (alpha = 1) and Ridge (alpha = 0) regression for these models, as well as cross-validation to select the best penalty parameter (lambda) for each model based on performance metrics.
+We used both a Lasso (alpha = 1) and Ridge (alpha = 0) regressions for these models, as well as cross-validation to select the best penalty parameter (lambda) for each model based on performance metrics.
 
 We generated ROC curves to assess the predictive accuracy of the models on the testing dataset, including sensitivity and specificity at different thresholds. Comparing AUC (Area Under the Curve) values for both the Lasso and Ridge regression models.
 
