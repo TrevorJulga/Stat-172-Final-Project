@@ -48,13 +48,18 @@ FSWROUTY - Worry that food would run out before being able to afform more (durin
 4. Conclusions are commented within the file for easy reference.
 
 ## Conclusions
-Our recommendations for Wesley Life's expansion are:
+For our data, we found results of not only the seniors, but a subset of seniors that are strictly seniors that live alone.
 
-[Conclusion 1]
+We found that the Southwest Iowa--Council Bluffs City PUMA has the highest predicted amount of seniors that are food insecure for both the all seniors data as well as our subset.
 
-[Conclusion 2]
+Although this is true, the aggregate probability of a senior household being food insecure in Southwest Iowa--Council Bluffs City PUMA is not the highest probability among all the PUMA groups. The order of aggreagate probabilities for if senior households are food insecure is different for the subset of seniors and the total seniors. The Southwest Iowa--Council Bluffs City PUMA is the 5th higest probability in the subsetted data out of 24 PUMA's. The Southwest Iowa--Council Bluffs City PUMA is the 16th highest probability in the full data out of 24 PUMA's.
 
-These conclusions are based on the predictions from our model and highlight the counties where Wesley Life could make the biggest impact.
+Because of these conclusions, we believe that Wesley Life should focus their efforts in expanding to the Southwest Iowa--Council Bluffs City PUMA area to help the most people in need.
+
+#### Disclaimer
+Wesley Life was especially interested in seniors who lived alone as these seniors will often use Wesley Life's food delivery system for regular social interaction. Wesley Life also likes this as they are able to keep track of these seniors, as they may be the only ones who show up regularily enough to know if something bad happened to the senior citizen. This is why we created this subset.
+
+Although Wesley Life is interested in this subset, the subsetted model performed signficantly worse than the full model with all seniors, which is why we suggest using the full model in further conclusions and analysis.
 
 ## Acknowledements
 We thank Wesley Life for their collaboration and the course instructor Lendie Follett for her guidance.
