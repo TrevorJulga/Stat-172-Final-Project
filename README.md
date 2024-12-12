@@ -34,9 +34,6 @@ We applied the trained models to our ACS data, which does not include direct foo
 #### Model Views
 We utilized PUMA shapefiles for Iowa to create choropleth maps that visualize food insecurity probabilities. Mapping overall probabilities and focusing on the elderly population, grouping by PUMA and calculating weighted means.
 
-#### Predictions with ACS Data:
-The tested model was applied to the ACS data to predict food insecurity at the PUMA level.
-
 #### Variable Selection:
 Our selected predictor for food insecurity is:
 
