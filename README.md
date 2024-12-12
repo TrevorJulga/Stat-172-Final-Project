@@ -31,7 +31,7 @@ We created and trained two different models:
 
 The first model was trained using every household in Iowa and was then used to draw conclusions about households with at least one senior living in it.
 
-The second model was trained with households where there is a senior living alone, this was then used to draw conclusions about hoseholds with a senior living alone.
+The second model was trained with households where there is a senior living alone, this was then used to draw conclusions about households with a senior living alone.
 
 We applied the trained models to our ACS data, which does not include direct food insecurity measures, to predict food insecurity probabilities among households with seniors at the PUMA level.
 
