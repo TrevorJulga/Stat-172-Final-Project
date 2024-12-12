@@ -72,7 +72,7 @@ Although this is true, the aggregate probability of a household with a senior be
 Wesley Life is already expanded to the Southwest Iowa--Council Bluffs City PUMA which is why we are recommending that they expand their efforts to the Dubuque, Buchanan, Jackson & Delaware Counties--Dubuque City PUMA.
 
 #### Subset Model
-Wesley Life was especially interested in seniors who lived alone as these seniors will often use Wesley Life's food delivery system for regular social interaction. Wesley Life likes this as they are able to keep track of these seniors, as they may be the only ones who show up regularily enough to know if something bad happened to the senior citizen. This is why we created this subset.
+Wesley Life was especially interested in seniors who lived alone as these seniors will often use Wesley Life's food delivery system for regular social interaction. Wesley Life likes this as they are able to keep track of these seniors, as they may be the only ones who show up on a regular basis to know if something bad happened to the senior citizen. This is why we created this subset.
 
 Although Wesley Life is interested in this subset, the subset model performed signficantly worse than the full model with all seniors, which is why we recommend using the full model in further conclusions and analysis.
 
