@@ -56,6 +56,11 @@ graphs.R - This produces our graphs.
 
 model_y1(commented).R - This is the code for our models. The current script gives the "full" model. If you uncomment line 19, the code will produce our subset model which is strictly seniors that live alone.
 
+#### Using Our Code
+After downloading the 5 R Studio files, you can easily duplicate our results by running the two cleaning scripts first, then the model_y1 script, then the RandomForestVariableImportance script, and finally the graphs script if you are looking to see the cloropleth graphs we have produced.
+
+All librarys that are needed are listed at the top of each script.
+
 ## Conclusions
 #### Full Model
 After using the "full" data to assess food insecurity among households with seniors, we found these conclusions:
